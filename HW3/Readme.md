@@ -1,3 +1,3 @@
 Homework 3 was about recreating the statistical results from a published paper. Corral's 2018 paper applied the KS test to several subsets of earthquake data from Southern California. This homework gave experience dealing with trying to replicate coding results without the original code and dataset used by the authors. We had to parse through the written explanations of how the sub-datasets were created by the authors and how they examined the data using a KS test.
 
-Got help from Tali, Shar, Paula, Bivek, and Masooma
+On this homework I worked with and get help from Tali, Shar, Paula, Bivek, and Masooma. I was having some trouble figuring out how to parse the strings in order to fix the date time issue caused by the 60.00 seconds.
