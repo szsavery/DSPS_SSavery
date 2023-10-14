@@ -1,1 +1,1 @@
-AAAAAAAAA
+In part 1 of this homework, we explored how the actual velocity versus radius curves for both Andromeda and the Milky Way behave versus expectations, assuming no dark matter. Exploring this data should highlight to us the need for dark matter to explain what is seen in these velocity curves. In the second part of this homework we are running a MCMC sampler for over 10^4 counts and then comparing that to the expected Gaussian output.
