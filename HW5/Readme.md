@@ -2,3 +2,5 @@ During this homework, we had to try fitting several different kinds of models to
 
 For this homework I worked with Shar, Masooma, and Miles. Shar, Masooma, and I worked through the bpl and all the log functions that were needed for the MCMC test together. We also were able to figure out what order of values made sense for the initial guesses of the needed parameters. Masooma and Miles helped me out with the log ratios function, as I was a bit confused with how to set it up, as well as making sure I was getting a value with the expected sign. I also chatted with Tali, Bivek, and Sarah some about different questions we all had while working through this homework. Lastly, I did make use of the previous version of this Collab workbook to check my code formatting in different parts, as well as making sure I was using the correct variables for the different functions.
 
+With this homework, I would say that we mostly worked collaboratively so I wouldn't claim to have lead on anything specific. 
+
