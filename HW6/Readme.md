@@ -1,3 +1,3 @@
 This homework had us dealing with the george package to perform a Gaussian Regression process on Sea Surface temperature data. This temperature data is the averaged monthly temperature record from Januray 1950 until December 2010. To perform this regression, an array was needed that contained all the days from Januray 1950 until December 2030. After finding an initial interpolation function was found, we then had to optimize the parameters needed to create a best fit interpolation. Lastly, this optimized best fit was again plotted with the recorded data.
 
-For this homework, I worked with Tali and Bivek. I also chatted with Masooma, Miles, and Reyta about the optimize section 
+For this homework, I worked with Tali, Bivek, and Sarah. I also chatted with Masooma, Miles, and Reyta about the optimize section 
