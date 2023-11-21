@@ -1,1 +1,4 @@
+Good Plot:
 
+
+Bad Plot:
