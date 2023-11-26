@@ -8,3 +8,6 @@ I decided to choose both of these figures from "Constraining stellar and orbital
 
 
 Bad Plot:
+<img width="602" alt="Bad plot, fig 1" src="https://github.com/szsavery/DSPS_SSavery/assets/143891445/40bfe31c-c325-4484-b481-1ab9c59b7ee8">
+The bad plot I have chosen is from "First Extragalactic Detection of Thermal Hydroxyl (OH) 18cm Emission in M31 Reveals Abundant CO-faint Molecular Gas" by Michael P. Busch.
+
