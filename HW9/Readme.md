@@ -3,4 +3,4 @@ This homework assignment was about using several different tree models to analyi
 For this homework, I got some help from Masooma and Bivek. I chatted with Masooma about data cleaning, and they helped me realize that I needed to remove the -999 values from the dataset. I talked with Bivek about the regressor models to make sure I was using the right data when creating the training and testing subsets. I had also sent a couple messages in the slack about the regressor models, as I was getting seemingly low scores and really bad overfitting. Shar, Fed, and Rayta all tried to help me over slack.
 
 
-I made use of the shared Titantic notebook for reading in the Kaggle data and for the feature importance code.
+I made use of the shared Titantic notebook for reading in the Kaggle data and for the feature importance code. Otherwise, I was coding independently for this homework. The main struggle with this homework was figuring what max depths maximized the training scores without leading to overfitting. I couldn't get the score for either regressor model above 0.5 without extreme overfitting. 
