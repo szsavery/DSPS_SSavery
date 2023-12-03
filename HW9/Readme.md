@@ -1,1 +1,1 @@
-This homework assignment was about using several different tree models to analyize Higgs boson data. 
+This homework assignment was about using several different tree models to analyize Higgs boson data. First, 2 classifier tree models were trained and tested on the Higgs data. These were a Random Forest Classifier and a Gradient Boosted Tree Classifier, and they were compared using 
